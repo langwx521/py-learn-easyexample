@@ -1,0 +1,26 @@
+Sublime Text3汉化版常用快捷键说明
+
+　　Sublime Text 3快捷键:
+　　Ctrl+L 选择整行(按住-继续选择下行)
+　　Ctrl+KK 从光标处删除至行尾
+　　Ctrl+K Backspace 从光标处删除至行首
+　　Ctrl+J 合并行(已选择需要合并的多行时)
+　　Ctrl+KU 改为大写
+　　Ctrl+KL 改为小写
+　　Ctrl+D 选择字符串 (按住-继续选择下个相同的字符串)
+　　Ctrl+M 光标移动至括号内开始或结束的位置
+　　Ctrl+/ 注释整行(如已选择内容，同“Ctrl+Shift+/”效果)
+　　Ctrl+Shift+c转换为utf8
+　　Ctrl+R 搜索指定文件的函数标签
+　　Ctrl+G 跳转到指定行
+　　Ctrl+KT 折叠属性
+　　Ctrl+K0 展开所有
+　　Ctrl+U 软撤销
+　　Ctrl+T 词互换
+　　Tab 缩进 自动完成
+　　Shift+Tab 去除缩进
+　　Ctrl+F2 设置书签.
+　　F2 下一个书签
+　　Shift+F2 上一个书签
+　　shift+鼠标右键 列选择
+　　Alt+F3 选中文本按下快捷键，即可一次性选择全部的相同文本进行同时编辑
